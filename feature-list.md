@@ -1,2 +1,2 @@
-1. GitHub Tshirt
-2. Python Tshirt
+1. Upload Tshirt
+2. Purchase Tshirt
